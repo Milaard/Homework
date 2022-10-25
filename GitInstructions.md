@@ -21,7 +21,14 @@ _Что такое Git и для чего он нужен_
 * Строка -  ненумерованные списки, символ "*" в начале строки;
 * 1, 2, 3... - нумерованные списки
 
-Справочник по Markdown от [Microsoft](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+## Картинки в тексте 
+
+Чтобы добавить картинки в текст необходимо использовать следующий синтаксис - ставим восклицательный знак, потом в квадратных скобках указываем текст, а в круглых - адрес файла с картинкой. Адрес относительный или абсолютный. 
+Например, вот так: ![Git](https://upload.wikimedia.org/wikipedia/commons/1/10/Rubiks_cube.jpg)
+
+
+## Справочник по Markdown от [Microsoft](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
 
 
 ## Основные команды Git:
