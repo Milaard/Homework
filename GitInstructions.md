@@ -18,6 +18,8 @@ _Что такое Git и для чего он нужен_
 * Строка -  ненумерованные списки, символ "*" в начале строки;
 * 1, 2, 3... - нумерованные списки
 
+Справочник по Markdown от Microsoft: (https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
 
 ## Основные команды Git:
 
